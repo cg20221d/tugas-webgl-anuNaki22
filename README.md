@@ -14,3 +14,8 @@ Dokumentasi Hasil Tugas 1:
 Dokumentasi Hasil Tugas 2:
 
 ![](https://github.com/cg20221d/tugas-webgl-anuNaki22/blob/main/tugas%202/tugas%202%20webgl.gif)
+
+
+Dokumentasi Hasil Kuis Hackathon:
+
+![](https://github.com/cg20221d/tugas-webgl-anuNaki22/blob/main/kuis%20hackathon/demo%20kuis%20hackathon.gif)
